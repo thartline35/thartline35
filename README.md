@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thartline35
+- 👋 Hi, I’m @thartline
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning programming language c
 - 💞️ I’m looking to collaborate on anything interesting
